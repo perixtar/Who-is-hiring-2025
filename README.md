@@ -20,9 +20,9 @@
 --- 
 
 
-| Hiring Company | Position | Current OA Stage | Most Recent OA Sent On | Current Interview Stage | Most Recent Interview Sent On |
-|:---------------:|:--------:|:----------------:|:----------------------:|:-----------------------:|:----------------------------:|
-| Amazon          | SDE      | Sent OA          | Jan 01, 2025           | Sent Interview          | Jan 05, 2025                  |
+| Hiring Company | Position | Current OA Stage | Most Recent OA Sent On | Current Interview Stage | Most Recent Interview Sent On |  Apply |
+|:---------------:|:--------:|:----------------:|:----------------------:|:-----------------------:|:----------------------------:|:----------------------------:|
+| Amazon          | SDE      | Sent OA          | Jan 01, 2025           | Sent Interview          | Jan 05, 2025                  | <a href="https://www.amazon.jobs/en/jobs/2828235/software-development-engineer-2025-us"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Apply"/> </a> 
 | The Trade Desk  | SDE      | Sent OA          | Jan 01, 2025           | Sent Interview          | Jan 01, 2025                  |
 | TikTok          | SDE      | Sent OA          | Jan 01, 2025           | Sent Interview          | Dec 10, 2024                  |
 | Uber            | SDE      | Sent OA          | Dec 31, 2024           | Sent Interview          | Dec 24, 2024                  |
